@@ -1,6 +1,6 @@
 # 📊 30 Programs in SVM - Machine Learning
 
-![Dashboard](dashboard.png)
+
 
 ## 🚀 Live Demo
 
